@@ -8,7 +8,7 @@ import joblib
 import sys
 import os
 
-# Добавляем папку py в sys.path
+# py в sys.path
 sys.path.append(os.path.join(os.path.dirname(__file__), 'py'))
 
 
